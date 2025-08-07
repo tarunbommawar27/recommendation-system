@@ -13,7 +13,7 @@ This is like Netflix's recommendation system! It suggests products to users and 
 
 ### Option 1: Run in Google Colab (Easiest!)
 1. Open Google Colab: https://colab.research.google.com
-2. Copy the setup code from `colab_setup.ipynb`
+2. Copy the setup code from `recommendation_system_public.py`
 3. Run all cells
 4. Click the link to see your live dashboard!
 
