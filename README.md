@@ -22,19 +22,4 @@ This is like Netflix's recommendation system! It suggests products to users and 
 pip install -r requirements.txt
 streamlit run dashboard.py
 
-What I Learned
 
-How recommendation systems work
-What A/B testing is
-How to make web dashboards
-Basic data science with Python
-
-Technologies Used
-
-Python 🐍
-Streamlit (for the web app)
-Pandas (for data handling)
-Scikit-learn (for AI/ML)
-Plotly (for charts)
-
-Made with ❤️ by Tarun Bommawar
